@@ -1,0 +1,35 @@
+body{
+	background: #ffffff;
+	color: #000;
+	font-size: 13pt;
+	text-decoration: none;
+}
+
+#menu{
+	display:none;
+}
+
+#tresc{
+	margin: 0px auto;
+}
+
+h1, h2, h3, a, p, code, samp, pre, p:first-letter{
+	color:black;
+	margin: 10px 10px;
+}
+
+#baner{
+	margin: 10px 10px;
+}
+
+table{
+	border:none;
+}
+
+
+
+
+
+
+
+
