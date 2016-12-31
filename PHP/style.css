@@ -1,0 +1,138 @@
+body {
+	font-family: Garamond, sans-serif;
+	font-size: 12pt;
+	background-color: #993333;
+	padding : 0;
+	margin-left : auto;
+	margin-right : auto;
+}
+
+h1{
+	color: #7a2563;
+	letter-spacing: 4px;
+}
+
+h2{
+	color: #996633;
+}
+
+h3{
+	color: #FFFF99;
+}
+
+p {
+	text-align: justify;
+	text-indent: 20px;
+}
+
+table{
+	background-color:#ffcc33;
+	border-color: #993300;
+	border-style: dotted;
+	border-width: 6px;
+}
+
+thead{
+	text-transform: uppercase;
+	background-color: #CCCC33;
+}
+
+tfoot{
+	background-color: #C0C0C0;
+}
+
+.qwertz{
+	background-color: #CCEE33;
+}
+
+pre, code , samp{
+	font-size: 11pt;
+	font-style: italic;
+	color: #660000;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+ol ol{
+	list-style-type: lower-roman;
+}
+
+ol ol ol{
+	list-style-type: lower-greek;
+}
+
+img{
+	float:right;
+}
+
+#img2{
+	float: left;
+}
+
+#tresc{
+	background-color: #CC9933;
+	max-width: 960px;	
+	overflow: auto;
+	margin: 0px 0px;
+	margin-left: 250px;
+	padding: 0px 10px;
+}
+
+#menu {
+	width: 250px;
+	background-color: #FFFF99;
+	float: left;
+	position: absolute;
+	height: 100%;
+}
+
+#baner{
+	background-color: #FFFF99;
+	max-width: 100%;
+	text-align: center;
+}
+
+.przyciski{
+	margin-right: 10%;
+	padding-bottom: 10px;
+}
+
+ol.przyciski{
+	list-style:none;
+}
+
+.przyciski li{
+	background-color: #FFCC33;
+	margin: 4px 0px;
+	text-align:center;
+}
+
+#strona{
+	max-width: 1210px;
+	margin: 0 auto;
+	background-color: #993333;
+	position: relative;
+}
+
+p:first-letter{
+	font-size:150%;
+	color: #7a2563;
+}
+#menu li:hover{
+	background-color: #d1b968;
+}
+
+#menu a:link, #menu a:visited, #menu a:hover, #menu a:active{
+	cursor:default;
+}
+
+
+
+
+
+
+
+
+
