@@ -42,7 +42,7 @@ tfoot{
 }
 
 .qwertz{
-	background-color: #CCCC33;
+	background-color: #CCEE33;
 }
 
 pre, code , samp{
@@ -84,7 +84,7 @@ img{
 	width: 250px;
 	background-color: #FFFF99;
 	float: left;
-	position: absolute;
+	position: fixed;
 	height: 100%;
 }
 
@@ -112,7 +112,7 @@ ol.przyciski{
 #strona{
 	max-width: 1210px;
 	margin: 0 auto;
-	background-color: blue;
+	background-color: #993333;
 	position: relative;
 }
 
@@ -123,6 +123,7 @@ p:first-letter{
 #menu li:hover{
 	background-color: #d1b968;
 }
+
 #menu a:link, #menu a:visited, #menu a:hover, #menu a:active{
 	cursor:default;
 }
