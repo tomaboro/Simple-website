@@ -1,0 +1,46 @@
+body {
+	background-color: #918889;
+}
+
+#tresc{
+	background-color: #CC9933;
+	max-width: 960px;	
+	overflow: auto;
+	margin: 20px 0px;
+	padding: 10px 10px;
+}
+
+#menu {
+	width: auto;
+	max-width: 960px;
+	height: auto;
+	background-color: #FFFF99;
+	float: none;
+	position: relative;
+}
+
+.przyciski{
+	margin-right: 10%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.przyciski li{
+	display: inline;
+	margin-right: 3px;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+#strona{
+	max-width: 960px;
+	background-color: #918889;
+}
+
+
+
+
+
+
+
+

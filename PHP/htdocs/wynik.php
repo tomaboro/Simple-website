@@ -1,3 +1,0 @@
- <?php
-        include ("addComment.php");
-?>
